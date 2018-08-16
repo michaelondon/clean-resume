@@ -3138,7 +3138,15 @@ div#multiColumn {
 			.image.main {
 				height: 12em;
 			}
+*.column {
+    float: right;
+    width: auto;
+    padding: 100px;
+    height: 100px; 
 
+}
+        
+        
 		/* Section/Article */
 
 			header br {
@@ -3157,7 +3165,7 @@ div#multiColumn {
 
 			.features article .image {
 				display: block;
-				margin: 0 0 2.25em 0;
+				margin: 0 0 5.25em 0;
 				padding-right: 0;
 				width: 100%;
 			}
